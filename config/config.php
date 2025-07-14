@@ -1,11 +1,11 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'myocverse');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'u316670446_myocverse');
+define('DB_USER', 'u316670446_myocverse');
+define('DB_PASS', 'ak.QDT44AEdtqwS');
 
 define('SITE_NAME', 'MyOCVerse');
-define('SITE_URL', 'http://localhost');
+define('SITE_URL', 'https://myocverse.neopolyworks.fr');
 define('UPLOAD_PATH', 'uploads/');
 
 // Configurations XP
